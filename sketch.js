@@ -49,4 +49,8 @@ function draw() {
     stroke(255, 255, 0)
     noFill()
   }
+
+  else {
+    noStroke()
+  }
 }
