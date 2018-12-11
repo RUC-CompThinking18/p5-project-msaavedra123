@@ -47,7 +47,6 @@ function draw() {
   //When the mouse is pressed the stroke, or outline, ofeach name changes to yellow
   if (mouseIsPressed){
     stroke(255, 255, 0)
-    noFill()
   }
 
   else {
