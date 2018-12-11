@@ -23,8 +23,6 @@ function setup() {
   //Here the image "BlackAfraid.PNG) is assigned to img
   img = loadImage("assets/BlackAfraid.PNG");
   createCanvas(700, 700); //Size of the canvas which will also be the size of img
-
-
 }
 
 
